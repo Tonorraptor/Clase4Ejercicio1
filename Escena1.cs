@@ -42,9 +42,11 @@ namespace Clase4Ejercicio1
         }
         static void War()
         {
+            ScenaWar.War();
         }
         static void run()
         {
+            ScenaRun.Run(); 
         }
     }
 }
